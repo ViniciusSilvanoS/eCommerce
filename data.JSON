@@ -1,0 +1,72 @@
+[
+  {
+    "marca": "Samsung",
+    "polegadas": 55,
+    "nome": "Samsung 55NU7100",
+    "preco": 2999.0,
+    "categoria": "Smart TV"
+  },
+  {
+    "marca": "LG",
+    "polegadas": 65,
+    "nome": "LG 65UN7310",
+    "preco": 4499.0,
+    "categoria": "Smart TV"
+  },
+  {
+    "marca": "Sony",
+    "polegadas": 43,
+    "nome": "Sony KDL-43W665F",
+    "preco": 2699.0,
+    "categoria": "Smart TV"
+  },
+  {
+    "marca": "Philips",
+    "polegadas": 50,
+    "nome": "Philips 50PUG6513",
+    "preco": 3199.0,
+    "categoria": "Smart TV"
+  },
+  {
+    "marca": "TCL",
+    "polegadas": 55,
+    "nome": "TCL 55P8M",
+    "preco": 2499.0,
+    "categoria": "Smart TV"
+  },
+  {
+    "marca": "Panasonic",
+    "polegadas": 40,
+    "nome": "Panasonic TC-40FS500B",
+    "preco": 1699.0,
+    "categoria": "Smart TV"
+  },
+  {
+    "marca": "AOC",
+    "polegadas": 32,
+    "nome": "AOC LE32S5970",
+    "preco": 1199.0,
+    "categoria": "Smart TV"
+  },
+  {
+    "marca": "Philco",
+    "polegadas": 43,
+    "nome": "Philco PH43N91DSGWA",
+    "preco": 1899.0,
+    "categoria": "Smart TV"
+  },
+  {
+    "marca": "LG",
+    "polegadas": 55,
+    "nome": "LG 55NANO81",
+    "preco": 4999.0,
+    "categoria": "Smart TV"
+  },
+  {
+    "marca": "Samsung",
+    "polegadas": 50,
+    "nome": "Samsung 50TU8000",
+    "preco": 2699.0,
+    "categoria": "Smart TV"
+  }
+]
