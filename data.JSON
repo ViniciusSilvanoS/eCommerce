@@ -1,72 +1,133 @@
 [
   {
-    "marca": "Samsung",
-    "polegadas": 55,
-    "nome": "Samsung 55NU7100",
-    "preco": 2999.0,
-    "categoria": "Smart TV"
+    "nome": "Nvidia GeForce RTX 3090",
+    "modelo": "RTX 3090",
+    "preco": 12999.9,
+    "categoria": "placa de vídeo",
+    "descricao": "A Nvidia GeForce RTX 3090 é uma placa de vídeo topo de linha, ideal para jogos em 4K e para criação de conteúdo, como edição de vídeo e renderização 3D.",
+    "imagens": [
+      "https://i.zst.com.br/thumbs/12/33/3b/-477539748.jpg",
+      "https://i.zst.com.br/thumbs/12/18/3b/-477539853.jpg",
+      "https://i.zst.com.br/thumbs/12/39/31/-477540076.jpg",
+      "https://i.zst.com.br/thumbs/12/f/31/-477540195.jpg",
+      "https://i.zst.com.br/thumbs/12/e/31/-477540231.jpg"
+    ]
   },
   {
-    "marca": "LG",
-    "polegadas": 65,
-    "nome": "LG 65UN7310",
-    "preco": 4499.0,
-    "categoria": "Smart TV"
+    "nome": "AMD Radeon RX 6900 XT",
+    "modelo": "RX 6900 XT",
+    "preco": 7999.9,
+    "categoria": "placa de vídeo",
+    "descricao": "A AMD Radeon RX 6900 XT é uma placa de vídeo de alta performance, ideal para jogos em 4K e para criação de conteúdo, como edição de vídeo e renderização 3D.",
+    "imagens": [
+      "https://images.kabum.com.br/produtos/fotos/403269/placa-de-video-pny-rtx-4070ti-12gb-oc-vcg4070t12tfxxpb1-o_1672846639_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/403269/placa-de-video-pny-rtx-4070ti-12gb-oc-vcg4070t12tfxxpb1-o_1672846636_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/403269/placa-de-video-pny-rtx-4070ti-12gb-oc-vcg4070t12tfxxpb1-o_1672846638_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/403269/placa-de-video-pny-rtx-4070ti-12gb-oc-vcg4070t12tfxxpb1-o_1672846641_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/403269/placa-de-video-pny-rtx-4070ti-12gb-oc-vcg4070t12tfxxpb1-o_1672846637_gg.jpg"
+    ]
   },
   {
-    "marca": "Sony",
-    "polegadas": 43,
-    "nome": "Sony KDL-43W665F",
-    "preco": 2699.0,
-    "categoria": "Smart TV"
+    "nome": "Nvidia GeForce RTX 3080 Ti",
+    "modelo": "RTX 3080 Ti",
+    "preco": 8999.9,
+    "categoria": "placa de vídeo",
+    "descricao": "A Nvidia GeForce RTX 3080 Ti é uma placa de vídeo de alta performance, ideal para jogos em 4K e para criação de conteúdo, como edição de vídeo e renderização 3D.",
+    "imagens": [
+      "https://i.zst.com.br/thumbs/12/33/3b/-477539748.jpg",
+      "https://i.zst.com.br/thumbs/12/18/3b/-477539853.jpg",
+      "https://i.zst.com.br/thumbs/12/39/31/-477540076.jpg",
+      "https://i.zst.com.br/thumbs/12/f/31/-477540195.jpg",
+      "https://i.zst.com.br/thumbs/12/e/31/-477540231.jpg"
+    ]
   },
   {
-    "marca": "Philips",
-    "polegadas": 50,
-    "nome": "Philips 50PUG6513",
-    "preco": 3199.0,
-    "categoria": "Smart TV"
+    "nome": "AMD Radeon RX 6800 XT",
+    "modelo": "RX 6800 XT",
+    "preco": 4999.9,
+    "categoria": "placa de vídeo",
+    "descricao": "A AMD Radeon RX 6800 XT é uma placa de vídeo de alta performance, ideal para jogos em 4K e para criação de conteúdo, como edição de vídeo e renderização 3D.",
+    "imagens": [
+      "https://img.terabyteshop.com.br/produto/g/placa-de-video-sapphire-pulse-radeon-rx-6800-xt-oc-16gb-gddr6-256-bit-11304-01-20g_162276.jpg",
+      "https://img.terabyteshop.com.br/produto/g/placa-de-video-sapphire-pulse-radeon-rx-6800-xt-oc-16gb-gddr6-256-bit-11304-01-20g_127317.png",
+      "https://img.terabyteshop.com.br/produto/g/placa-de-video-sapphire-pulse-radeon-rx-6800-xt-oc-16gb-gddr6-256-bit-11304-01-20g_127318.jpg",
+      "https://img.terabyteshop.com.br/produto/g/placa-de-video-sapphire-pulse-radeon-rx-6800-xt-oc-16gb-gddr6-256-bit-11304-01-20g_127316.jpg",
+      "https://img.terabyteshop.com.br/produto/g/placa-de-video-sapphire-pulse-radeon-rx-6800-xt-oc-16gb-gddr6-256-bit-11304-01-20g_127314.jpg"
+    ]
   },
   {
-    "marca": "TCL",
-    "polegadas": 55,
-    "nome": "TCL 55P8M",
-    "preco": 2499.0,
-    "categoria": "Smart TV"
+    "nome": "Nvidia GeForce RTX 3070",
+    "modelo": "RTX 3070",
+    "preco": 3999.9,
+    "categoria": "placa de vídeo",
+    "descricao": "A Nvidia GeForce RTX 3070 é uma placa de vídeo de alta performance, ideal para jogos em 4K e para criação de conteúdo, como edição de vídeo e renderização 3D.",
+    "imagens": [
+      "https://images.kabum.com.br/produtos/fotos/130209/placa-de-video-gigabyte-nvidia-geforce-rtx-3070-gaming-oc-8g-8gb-gddr6-gv-n3070gaming-oc-8gd_1603479512_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/130209/placa-de-video-gigabyte-nvidia-geforce-rtx-3070-gaming-oc-8g-8gb-gddr6-gv-n3070gaming-oc-8gd_1603479511_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/130209/placa-de-video-gigabyte-nvidia-geforce-rtx-3070-gaming-oc-8g-8gb-gddr6-gv-n3070gaming-oc-8gd_1603479513_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/130209/placa-de-video-gigabyte-nvidia-geforce-rtx-3070-gaming-oc-8g-8gb-gddr6-gv-n3070gaming-oc-8gd_1603479510_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/130209/placa-de-video-gigabyte-nvidia-geforce-rtx-3070-gaming-oc-8g-8gb-gddr6-gv-n3070gaming-oc-8gd_1603479509_gg.jpg"
+    ]
   },
   {
-    "marca": "Panasonic",
-    "polegadas": 40,
-    "nome": "Panasonic TC-40FS500B",
-    "preco": 1699.0,
-    "categoria": "Smart TV"
+    "nome": "LG UltraGear 27GL850-B",
+    "modelo": "27GL850-B",
+    "preco": 3999.9,
+    "categoria": "monitor",
+    "imagens": [
+      "https://m.media-amazon.com/images/I/61oliBsXAcL._AC_SL1154_.jpg",
+      "https://m.media-amazon.com/images/I/61XPY8VZ4HL._AC_SL1059_.jpg",
+      "https://m.media-amazon.com/images/I/512ykzQx9YL._AC_SL1427_.jpg",
+      "https://m.media-amazon.com/images/I/61e7FPpUMWL._AC_SL1200_.jpg"
+    ]
   },
   {
-    "marca": "AOC",
-    "polegadas": 32,
-    "nome": "AOC LE32S5970",
-    "preco": 1199.0,
-    "categoria": "Smart TV"
+    "nome": "Dell S2719DGF",
+    "modelo": "S2719DGF",
+    "preco": 3299.9,
+    "categoria": "monitor",
+    "imagens": [
+      "https://images.kabum.com.br/produtos/fotos/390499/monitor-gamer-samsung-odyssey-g32-27-led-full-hd-165hz-1ms-hdmi-e-displayport-freesync-premium-ajuste-de-altura-ls27ag32anlxzd_1664821487_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/390499/monitor-gamer-samsung-odyssey-g32-27-led-full-hd-165hz-1ms-hdmi-e-displayport-freesync-premium-ajuste-de-altura-ls27ag32anlxzd_1664821488_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/390499/monitor-gamer-samsung-odyssey-g32-27-led-full-hd-165hz-1ms-hdmi-e-displayport-freesync-premium-ajuste-de-altura-ls27ag32anlxzd_1664821485_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/390499/monitor-gamer-samsung-odyssey-g32-27-led-full-hd-165hz-1ms-hdmi-e-displayport-freesync-premium-ajuste-de-altura-ls27ag32anlxzd_1664821483_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/390499/monitor-gamer-samsung-odyssey-g32-27-led-full-hd-165hz-1ms-hdmi-e-displayport-freesync-premium-ajuste-de-altura-ls27ag32anlxzd_1664821482_gg.jpg"
+    ]
   },
   {
-    "marca": "Philco",
-    "polegadas": 43,
-    "nome": "Philco PH43N91DSGWA",
-    "preco": 1899.0,
-    "categoria": "Smart TV"
+    "nome": "Asus TUF Gaming VG279QM",
+    "modelo": "VG279QM",
+    "preco": 2899.9,
+    "categoria": "monitor",
+    "imagens": [
+      "https://media.pichau.com.br/media/catalog/product/cache/2f958555330323e505eba7ce930bdf27/v/g/vg278qr231.jpg",
+      "https://media.pichau.com.br/media/catalog/product/cache/2f958555330323e505eba7ce930bdf27/v/g/vg278qr1.jpg",
+      "https://media.pichau.com.br/media/catalog/product/cache/2f958555330323e505eba7ce930bdf27/v/g/vg278qr3.jpg",
+      "https://media.pichau.com.br/media/catalog/product/cache/2f958555330323e505eba7ce930bdf27/v/g/vg278qr4.jpg"
+    ]
   },
   {
-    "marca": "LG",
-    "polegadas": 55,
-    "nome": "LG 55NANO81",
-    "preco": 4999.0,
-    "categoria": "Smart TV"
+    "nome": "AOC C24G1",
+    "modelo": "C24G1",
+    "preco": 1499.9,
+    "categoria": "monitor",
+    "imagens": [
+      "https://media.pichau.com.br/media/catalog/product/cache/2f958555330323e505eba7ce930bdf27/2/7/27g2bk8924.jpg",
+      "https://media.pichau.com.br/media/catalog/product/cache/2f958555330323e505eba7ce930bdf27/2/7/27g2bk231.jpg",
+      "https://media.pichau.com.br/media/catalog/product/cache/2f958555330323e505eba7ce930bdf27/2/7/27g2bk8923.jpg",
+      "https://media.pichau.com.br/media/catalog/product/cache/2f958555330323e505eba7ce930bdf27/2/7/27g2bk892.jpg"
+    ]
   },
   {
-    "marca": "Samsung",
-    "polegadas": 50,
-    "nome": "Samsung 50TU8000",
-    "preco": 2699.0,
-    "categoria": "Smart TV"
+    "nome": "Samsung Odyssey G5",
+    "modelo": "Odyssey G5",
+    "preco": 2599.9,
+    "categoria": "monitor",
+    "imagens": [
+      "https://images.kabum.com.br/produtos/fotos/390499/monitor-gamer-samsung-odyssey-g32-27-led-full-hd-165hz-1ms-hdmi-e-displayport-freesync-premium-ajuste-de-altura-ls27ag32anlxzd_1664821487_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/390499/monitor-gamer-samsung-odyssey-g32-27-led-full-hd-165hz-1ms-hdmi-e-displayport-freesync-premium-ajuste-de-altura-ls27ag32anlxzd_1664821485_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/390499/monitor-gamer-samsung-odyssey-g32-27-led-full-hd-165hz-1ms-hdmi-e-displayport-freesync-premium-ajuste-de-altura-ls27ag32anlxzd_1664821483_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/390499/monitor-gamer-samsung-odyssey-g32-27-led-full-hd-165hz-1ms-hdmi-e-displayport-freesync-premium-ajuste-de-altura-ls27ag32anlxzd_1664821482_gg.jpg"
+    ]
   }
 ]
