@@ -129,5 +129,659 @@
       "https://images.kabum.com.br/produtos/fotos/390499/monitor-gamer-samsung-odyssey-g32-27-led-full-hd-165hz-1ms-hdmi-e-displayport-freesync-premium-ajuste-de-altura-ls27ag32anlxzd_1664821483_gg.jpg",
       "https://images.kabum.com.br/produtos/fotos/390499/monitor-gamer-samsung-odyssey-g32-27-led-full-hd-165hz-1ms-hdmi-e-displayport-freesync-premium-ajuste-de-altura-ls27ag32anlxzd_1664821482_gg.jpg"
     ]
+  },
+  {
+    "nome": "Logitech G502 Hero",
+    "modelo": "G502 Hero",
+    "preco": 349.9,
+    "categoria": "mouse",
+    "imagens": [
+      "https://images.kabum.com.br/produtos/fotos/98244/mouse-gamer-logitech-g502-hero-16k-rgb-lightsync-11-botoes-16000-dpi-910-005550_1626297206_gg.jpg",
+      "https://m.media-amazon.com/images/I/61ynRhcjahL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61316E3NGOS._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61wjFBCIPAL._AC_SL1500_.jpg"
+    ],
+    "descricao": "O mouse Logitech G502 Hero possui um sensor óptico de última geração, oferecendo uma precisão incrível para os jogadores mais exigentes. Além disso, conta com 11 botões programáveis, permitindo uma personalização completa do dispositivo."
+  },
+  {
+    "nome": "Razer DeathAdder Elite",
+    "modelo": "DeathAdder Elite",
+    "preco": 399.9,
+    "categoria": "mouse",
+    "imagens": [
+      "https://images.kabum.com.br/produtos/fotos/109815/mouse-razer-deathadder-v2-20-000-dpi-rz01-03210100-r3u1_1580480292_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/109815/mouse-razer-deathadder-v2-20-000-dpi-rz01-03210100-r3u1_1580480291_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/109815/mouse-razer-deathadder-v2-20-000-dpi-rz01-03210100-r3u1_1580480289_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/109815/mouse-razer-deathadder-v2-20-000-dpi-rz01-03210100-r3u1_1580480293_gg.jpg"
+    ],
+    "descricao": "O Razer DeathAdder Elite é um dos mouses mais populares entre os jogadores profissionais, graças ao seu design ergonômico e sua precisão impecável. Com um sensor óptico de 16000 DPI, ele oferece uma vantagem competitiva para jogadores de todos os níveis."
+  },
+  {
+    "nome": "Corsair Dark Core RGB/SE",
+    "modelo": "Dark Core RGB/SE",
+    "preco": 499.9,
+    "categoria": "mouse",
+    "imagens": [
+      "https://i.ebayimg.com/images/g/pKwAAOSww75j5g4G/s-l500.jpg",
+      "https://i.ebayimg.com/images/g/ttwAAOSweyVj5g4G/s-l500.jpg",
+      "https://i.ebayimg.com/images/g/DxQAAOSwL2Jj5g4G/s-l500.jpg",
+      "https://i.ebayimg.com/images/g/eNoAAOSwjsVj5g4H/s-l500.jpg"
+    ],
+    "descricao": "O Corsair Dark Core RGB/SE é um mouse sem fio de alto desempenho, oferecendo uma latência ultrabaixa para jogos de alto nível. Com uma bateria de longa duração, este mouse é uma excelente escolha para quem busca um dispositivo confiável para maratonas de jogos."
+  },
+  {
+    "nome": "SteelSeries Rival 600",
+    "modelo": "Rival 600",
+    "preco": 429.9,
+    "categoria": "mouse",
+    "imagens": [
+      "https://images.kabum.com.br/produtos/fotos/115331/mouse-gamer-steelseries-rival-600-rgb-7-botoes-12000dpi-62446_1595355661_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/115331/mouse-gamer-steelseries-rival-600-rgb-7-botoes-12000dpi-62446_1595355660_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/115331/mouse-gamer-steelseries-rival-600-rgb-7-botoes-12000dpi-62446_1595355662_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/115331/mouse-gamer-steelseries-rival-600-rgb-7-botoes-12000dpi-62446_1595355657_gg.jpg"
+    ],
+    "descricao": "O SteelSeries Rival 600 é um mouse projetado para o máximo desempenho, com um sensor TrueMove3+ de 12000 DPI e um design ambidestro confortável. Além disso, conta com um sistema de peso ajustável, permitindo uma customização completa do dispositivo."
+  },
+  {
+    "nome": "HyperX Pulsefire FPS Pro",
+    "modelo": "Pulsefire FPS Pro",
+    "preco": 299.9,
+    "categoria": "mouse",
+    "imagens": [
+      "https://images.kabum.com.br/produtos/fotos/97700/97700_3_1533215372_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/97700/97700_1_1533215372_gg.jpg",
+      " https://images.kabum.com.br/produtos/fotos/97700/97700_4_1533215372_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/97700/97700_2_1533215372_gg.jpg"
+    ],
+    "descricao": "O HyperX Pulsefire FPS Pro é um mouse com foco em jogos de tiro em primeira pessoa, oferecendo uma precisão excepcional graças ao seu sensor Pixart 3389 de 16000 DPI. Com seis botões programáveis e um design confortável, é uma excelente escolha para jogadores que buscam a melhor performance em FPS."
+  },
+  {
+    "nome": "HyperX Alloy Elite RGB",
+    "modelo": "Alloy Elite RGB",
+    "preco": 699.9,
+    "categoria": "teclado",
+    "imagens": [],
+    "descricao": "O HyperX Alloy Elite RGB é um teclado mecânico premium, com switches Cherry MX e retroiluminação RGB personalizável. Com um design robusto e uma série de recursos avançados, como um hub USB 2.0 integrado e teclas multimídia dedicadas, é uma excelente escolha para jogadores e profissionais que buscam o melhor desempenho em digitação."
+  },
+  {
+    "nome": "Logitech G915 TKL",
+    "modelo": "G915 TKL",
+    "preco": 1.199,
+    "categoria": "teclado",
+    "imagens": [
+      "https://images.kabum.com.br/produtos/fotos/114289/teclado-sem-fio-mecanico-gamer-logitech-g915-lightspeed-bluetooth-design-tenkeyless-rgb-switch-gl-tactile-marrom-us-920-009495_1592590125_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/114289/teclado-mecanico-gamer-sem-fio-logitech-g915-tkl-rgb-lightsync-usb-ou-bluetooth-ultrafino-switch-gl-tactile-preto-920-009495_1644496413_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/114289/teclado-mecanico-gamer-sem-fio-logitech-g915-tkl-rgb-lightsync-usb-ou-bluetooth-ultrafino-switch-gl-tactile-preto-920-009495_1644496419_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/114289/teclado-mecanico-gamer-sem-fio-logitech-g915-tkl-rgb-lightsync-usb-ou-bluetooth-ultrafino-switch-gl-tactile-preto-920-009495_1644496415_gg.jpg"
+    ],
+    "descricao": "O Logitech G915 TKL é um teclado mecânico sem fio de alto desempenho, com switches GL Tactile e retroiluminação RGB personalizável. Com um design ultrafino e uma bateria de longa duração, este teclado é ideal para quem busca mobilidade e praticidade."
+  },
+  {
+    "nome": "Razer Huntsman Mini",
+    "modelo": "Huntsman Mini",
+    "preco": 899.9,
+    "categoria": "teclado",
+    "imagens": [
+      "https://m.media-amazon.com/images/I/61Az2uOUbqL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71H63VRrZJL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71YTSGybg5L._AC_SL1500_.jpg"
+    ],
+    "descricao": "O Razer Huntsman Mini é um teclado mecânico compacto, com switches ópticos e retroiluminação RGB personalizável. Com um design minimalista e teclas de atalho programáveis, é uma excelente escolha para jogadores que buscam um teclado de alta performance em um tamanho reduzido."
+  },
+  {
+    "nome": "Corsair K70 RGB MK.2",
+    "modelo": "K70 RGB MK.2",
+    "preco": 799.9,
+    "categoria": "teclado",
+    "imagens": [
+      "https://images.kabum.com.br/produtos/fotos/381958/teclado-mecanico-gamer-corsair-k65-mini-60-rgb-usb-switch-cherry-ch-9194010-na_1667237732_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/381958/teclado-mecanico-gamer-corsair-k65-mini-60-rgb-usb-switch-cherry-ch-9194010-na_1667237726_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/381958/teclado-mecanico-gamer-corsair-k65-mini-60-rgb-usb-switch-cherry-ch-9194010-na_1667237724_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/381958/teclado-mecanico-gamer-corsair-k65-mini-60-rgb-usb-switch-cherry-ch-9194010-na_1667237728_gg.jpg"
+    ],
+    "descricao": "O Corsair K70 RGB MK.2 é um teclado mecânico de alto desempenho, com switches Cherry MX e retroiluminação RGB personalizável. Com um design resistente à água e uma série de recursos avançados, como uma memória interna para perfis de usuário e um hub USB pass-through, é uma excelente escolha para jogadores e profissionais que buscam o máximo em qualidade e funcionalidade."
+  },
+  {
+    "nome": "Ducky One 2 Mini RGB",
+    "modelo": "One 2 Mini RGB",
+    "preco": 699.9,
+    "categoria": "teclado",
+    "imagens": [
+      "https://images.kabum.com.br/produtos/fotos/150667/teclado-gamer-mecanico-ducky-channel-one-2-mini-v2-rgb-usb-2-0-switch-cherry-mx-red-preto-dkon2061st-ruspdazt1_1614606632_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/150667/teclado-gamer-mecanico-ducky-channel-one-2-mini-v2-rgb-usb-2-0-switch-cherry-mx-red-preto-dkon2061st-ruspdazt1_1614606631_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/150667/teclado-gamer-mecanico-ducky-channel-one-2-mini-v2-rgb-usb-2-0-switch-cherry-mx-red-preto-dkon2061st-ruspdazt1_1614606630_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/150667/teclado-gamer-mecanico-ducky-channel-one-2-mini-v2-rgb-usb-2-0-switch-cherry-mx-red-preto-dkon2061st-ruspdazt1_1614606629_gg.jpg"
+    ],
+    "descricao": "O Ducky One 2 Mini RGB é um teclado mecânico compacto, com switches Cherry MX e retroiluminação RGB personalizável. Com um design minimalista e teclas PBT de alta qualidade, é uma excelente escolha para jogadores que buscam um teclado de alto desempenho em um tamanho reduzido."
+  },
+  {
+    "nome": "Mousepad Gamer XXL",
+    "preço": 99.99,
+    "descrição": "Mousepad gamer com dimensões de 900 x 400 x 3mm, superfície de tecido macio e base de borracha antiderrapante. Perfeito para jogos que exigem movimentos precisos e rápidos do mouse.",
+    "categoria": "mousepad",
+    "imagens": [
+      "https://img.terabyteshop.com.br/produto/g/mousepad-gamer-corsair-mm500-premium-estendido-black-ch-9415080-ww_130283.jpg",
+      "https://img.terabyteshop.com.br/produto/g/mousepad-gamer-corsair-mm500-premium-estendido-black-ch-9415080-ww_130282.jpg",
+      "https://img.terabyteshop.com.br/produto/g/mousepad-gamer-corsair-mm500-premium-estendido-black-ch-9415080-ww_130281.jpg",
+      "https://img.terabyteshop.com.br/produto/g/mousepad-gamer-corsair-mm500-premium-estendido-black-ch-9415080-ww_130284.jpg"
+    ]
+  },
+  {
+    "nome": "Mousepad Ergonômico",
+    "preço": 49.99,
+    "descrição": "Mousepad ergonômico com apoio para pulso, proporcionando mais conforto e evitando lesões por esforço repetitivo. Superfície de tecido suave e base antiderrapante.",
+    "categoria": "mousepad",
+    "imagens": [
+      "https://www.casadaergonomia.com.br/wp-content/uploads/2018/08/mousepad-ergonomico-PU.jpg",
+      "https://www.casadaergonomia.com.br/wp-content/uploads/2018/09/25531408977986-1.jpg",
+      "https://www.casadaergonomia.com.br/wp-content/uploads/2018/09/25811421439219-1.jpeg",
+      "https://www.casadaergonomia.com.br/wp-content/uploads/2018/09/10961408977987-1.jpg"
+    ]
+  },
+  {
+    "nome": "Mousepad Personalizado",
+    "preço": 29.99,
+    "descrição": "Mousepad com estampa personalizada de alta qualidade, feito com material resistente e base de borracha antiderrapante. Ideal para presentear alguém especial.",
+    "categoria": "mousepad",
+    "imagens": [
+      "https://img.elo7.com.br/product/original/1E24357/mouse-pad-personalizado-com-sua-arte-foto-lembrancinha-personalizada.jpg",
+      "https://www.papira.com.br/image/cache/data/site-giftus/produto-giftus/mouse-pad/mouse-pad-redondo-01-2022-02-01-18-20-32-926x926.jpg"
+    ]
+  },
+  {
+    "nome": "Mousepad Ultrafino",
+    "preço": 14.99,
+    "descrição": "Mousepad ultrafino com espessura de apenas 1mm, superfície lisa e base de borracha aderente. Perfeito para quem precisa de um mousepad discreto e fácil de transportar.",
+    "categoria": "mousepad",
+    "imagens": [
+      "https://m.media-amazon.com/images/I/81WQsjtppYL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61wk+WQxS1L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71peL1Bk8RL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81j4mYPsnNL._AC_SL1500_.jpg"
+    ]
+  },
+  {
+    "nome": "Mousepad com Iluminação RGB",
+    "preço": 79.99,
+    "descrição": "Mousepad gamer com iluminação RGB personalizável, superfície de tecido macio e base de borracha antiderrapante. Ideal para quem deseja um setup completo e personalizado.",
+    "categoria": "mousepad",
+    "imagens": [
+      "https://img.terabyteshop.com.br/produto/g/mousepad-gamer-redragon-epeius-p009-rgb_68378.jpg",
+      "https://img.terabyteshop.com.br/produto/g/mousepad-gamer-redragon-epeius-p009-rgb_68380.jpg",
+      "https://img.terabyteshop.com.br/produto/g/mousepad-gamer-redragon-epeius-p009-rgb_68381.jpg",
+      "https://img.terabyteshop.com.br/produto/g/mousepad-gamer-redragon-epeius-p009-rgb_68379.jpg"
+    ]
+  },
+  {
+    "nome": "Placa de Vídeo NVIDIA GeForce RTX 3080",
+    "preço": 5999.99,
+    "descrição": "Placa de vídeo de última geração com 10 GB de memória GDDR6X, suporte a Ray Tracing em tempo real e tecnologia DLSS para aumentar a performance. Ideal para jogos de alta demanda gráfica.",
+    "categoria": "placa de vídeo",
+    "imagens": [
+      "https://images.kabum.com.br/produtos/fotos/167207/placa-de-video-gigabyte-aorus-nvidia-geforce-rtx-3070-ti-gaming-oc-lhr-rgb-8g-gddr6x-dlss-ray-tracing-gv-n307tgaming-oc-8gd_1625595458_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/167207/placa-de-video-gigabyte-aorus-nvidia-geforce-rtx-3070-ti-gaming-oc-lhr-rgb-8g-gddr6x-dlss-ray-tracing-gv-n307tgaming-oc-8gd_1625595455_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/167207/placa-de-video-gigabyte-aorus-nvidia-geforce-rtx-3070-ti-gaming-oc-lhr-rgb-8g-gddr6x-dlss-ray-tracing-gv-n307tgaming-oc-8gd_1625595450_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/167207/placa-de-video-gigabyte-aorus-nvidia-geforce-rtx-3070-ti-gaming-oc-lhr-rgb-8g-gddr6x-dlss-ray-tracing-gv-n307tgaming-oc-8gd_1625595452_gg.jpg"
+    ]
+  },
+  {
+    "nome": "Placa de Vídeo AMD Radeon RX 6900 XT",
+    "preço": 5299.99,
+    "descrição": "Placa de vídeo com 16 GB de memória GDDR6, suporte a Ray Tracing em tempo real e tecnologia AMD Smart Access Memory para melhorar a performance em jogos. Ideal para quem busca desempenho de alta qualidade.",
+    "categoria": "placa de vídeo",
+    "imagens": [
+      "https://images.kabum.com.br/produtos/fotos/136468/placa-de-video-asrock-amd-radeon-rx-6900-xt-graphics-16-gbps-16gb-gddr6-pci-express-4-0-hardware-raytracing-rx6900xt-pgd-16go_1610646721_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/136468/placa-de-video-asrock-amd-radeon-rx-6900-xt-graphics-16-gbps-16gb-gddr6-pci-express-4-0-hardware-raytracing-rx6900xt-pgd-16go_1610646717_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/136468/placa-de-video-asrock-amd-radeon-rx-6900-xt-graphics-16-gbps-16gb-gddr6-pci-express-4-0-hardware-raytracing-rx6900xt-pgd-16go_1610646719_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/136468/placa-de-video-asrock-amd-radeon-rx-6900-xt-graphics-16-gbps-16gb-gddr6-pci-express-4-0-hardware-raytracing-rx6900xt-pgd-16go_1610646720_gg.jpg"
+    ]
+  },
+  {
+    "nome": "Placa de Vídeo NVIDIA GeForce GTX 1660 Super",
+    "preço": 1499.99,
+    "descrição": "Placa de vídeo com 6 GB de memória GDDR6, suporte a VR e tecnologia NVIDIA G-SYNC para evitar tearing. Ideal para jogos de média demanda gráfica.",
+    "categoria": "placa de vídeo",
+    "imagens": [
+      "https://images.kabum.com.br/produtos/fotos/110396/placa-de-video-zotac-gaming-nvidia-geforce-gtx-1660-super-twin-fan-6gb-gddr6-zt-t16620f-10l_1582210172_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/110396/placa-de-video-zotac-gaming-nvidia-geforce-gtx-1660-super-twin-fan-6gb-gddr6-zt-t16620f-10l_1582210170_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/110396/placa-de-video-zotac-gaming-nvidia-geforce-gtx-1660-super-twin-fan-6gb-gddr6-zt-t16620f-10l_1582210168_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/110396/placa-de-video-zotac-gaming-nvidia-geforce-gtx-1660-super-twin-fan-6gb-gddr6-zt-t16620f-10l_1582210169_gg.jpg"
+    ]
+  },
+  {
+    "nome": "Placa de Vídeo AMD Radeon RX 5700 XT",
+    "preço": 2999.99,
+    "descrição": "Placa de vídeo com 8 GB de memória GDDR6, suporte a tecnologia AMD FreeSync para evitar tearing e baixo consumo de energia. Ideal para quem busca bom desempenho com baixo custo.",
+    "categoria": "placa de vídeo",
+    "imagens": [
+      "https://images.kabum.com.br/produtos/fotos/377578/placa-de-video-asrock-amd-radeon-rx-6700-xt-challenger-d-12gb-gddr6-ray-tracing-90-ga2kzz-00uanh_1661534416_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/377578/placa-de-video-asrock-amd-radeon-rx-6700-xt-challenger-d-12gb-gddr6-ray-tracing-90-ga2kzz-00uanh_1661534417_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/377578/placa-de-video-asrock-amd-radeon-rx-6700-xt-challenger-d-12gb-gddr6-ray-tracing-90-ga2kzz-00uanh_1661534418_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/377578/placa-de-video-asrock-amd-radeon-rx-6700-xt-challenger-d-12gb-gddr6-ray-tracing-90-ga2kzz-00uanh_1661534419_gg.jpg"
+    ]
+  },
+  {
+    "nome": "Placa de Vídeo NVIDIA Quadro RTX 8000",
+    "preço": 24999.99,
+    "descrição": "Placa de vídeo profissional com 48 GB de memória GDDR6, suporte a tecnologia RTX e alto desempenho em renderização de imagens e vídeos. Ideal para profissionais de edição e criação de conteúdo.",
+    "categoria": "placa de vídeo",
+    "imagens": [
+      "https://images.kabum.com.br/produtos/fotos/381335/placa-de-video-pny-nvidia-quadro-rtxa5000-24gb-gddr6-ray-tracing-vcnrtxa5000-pb_1665157549_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/381335/placa-de-video-pny-nvidia-quadro-rtxa5000-24gb-gddr6-ray-tracing-vcnrtxa5000-pb_1665157548_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/381335/placa-de-video-pny-nvidia-quadro-rtxa5000-24gb-gddr6-ray-tracing-vcnrtxa5000-pb_1665157551_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/381335/placa-de-video-pny-nvidia-quadro-rtxa5000-24gb-gddr6-ray-tracing-vcnrtxa5000-pb_1665157552_gg.jpg"
+    ]
+  },
+  {
+    "nome": "Gabinete Gamer Corsair Carbide Series SPEC-06",
+    "preço": 899.99,
+    "descrição": "Gabinete com design arrojado, vidro temperado na lateral, suporte a radiadores de até 360 mm e capacidade para até 6 fans. Ideal para quem busca um visual diferenciado e uma boa performance em refrigeração.",
+    "categoria": "gabinete",
+    "imagens": [
+      "https://images.kabum.com.br/produtos/fotos/129061/gabinete-corsair-gamer-470t-rgb-mid-tower-com-fan-lateral-em-vidro-cc-9011215-ww_1602872251_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/129061/gabinete-corsair-gamer-470t-rgb-mid-tower-com-fan-lateral-em-vidro-cc-9011215-ww_1602872246_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/129061/gabinete-corsair-gamer-470t-rgb-mid-tower-com-fan-lateral-em-vidro-cc-9011215-ww_1602872247_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/129061/gabinete-corsair-gamer-470t-rgb-mid-tower-com-fan-lateral-em-vidro-cc-9011215-ww_1602872250_gg.jpg"
+    ]
+  },
+  {
+    "nome": "Gabinete Gamer Thermaltake View 71 RGB",
+    "preço": 1299.99,
+    "descrição": "Gabinete com design futurista, vidro temperado em 4 lados, suporte a radiadores de até 480 mm e capacidade para até 10 fans. Possui sistema de iluminação RGB integrado e controlador de fan. Ideal para quem busca um visual diferenciado e uma boa performance em refrigeração.",
+    "categoria": "gabinete",
+    "imagens": [
+      "https://images.kabum.com.br/produtos/fotos/320908/gabinete-gamer-rise-mode-galaxy-glass-lateral-em-vidro-temperado-preto-rm-ga-gg-fb_1657738212_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/320908/gabinete-gamer-rise-mode-galaxy-glass-lateral-em-vidro-temperado-preto-rm-ga-gg-fb_1657738213_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/320908/gabinete-gamer-rise-mode-galaxy-glass-lateral-em-vidro-temperado-preto-rm-ga-gg-fb_1657738219_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/320908/gabinete-gamer-rise-mode-galaxy-glass-lateral-em-vidro-temperado-preto-rm-ga-gg-fb_1657738223_gg.jpg"
+    ]
+  },
+  {
+    "nome": "Gabinete Cooler Master MasterCase H500M",
+    "preço": 1499.99,
+    "descrição": "Gabinete com design elegante, vidro temperado na lateral, suporte a radiadores de até 360 mm e capacidade para até 4 fans. Possui sistema de controle de iluminação e suporte a placas-mãe E-ATX. Ideal para quem busca um visual sofisticado e uma boa performance em refrigeração.",
+    "categoria": "gabinete",
+    "imagens": [
+      "https://images.kabum.com.br/produtos/fotos/sync_mirakl/120003/Gabinete-Mastercase-H500m-Rgb-Vidro-Mcm-H500m-Ihnn-S00_1675447088_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/sync_mirakl/120003/Gabinete-Mastercase-H500m-Rgb-Vidro-Mcm-H500m-Ihnn-S00_1675447098_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/sync_mirakl/120003/Gabinete-Mastercase-H500m-Rgb-Vidro-Mcm-H500m-Ihnn-S00_1675447109_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/sync_mirakl/120003/Gabinete-Mastercase-H500m-Rgb-Vidro-Mcm-H500m-Ihnn-S00_1675447130_gg.jpg"
+    ]
+  },
+  {
+    "nome": "Gabinete Gamer NZXT H510",
+    "preço": 699.99,
+    "descrição": "Gabinete compacto com design minimalista, vidro temperado na lateral, suporte a radiadores de até 240 mm e capacidade para até 2 fans. Possui suporte a placas-mãe ATX e sistema de gerenciamento de cabos. Ideal para quem busca um visual discreto e um bom custo-benefício.",
+    "categoria": "gabinete",
+    "imagens": [
+      "https://images.kabum.com.br/produtos/fotos/311912/gabinete-gamer-nzxt-h510-flow-mid-tower-com-fan-lateral-em-vidro-temperado-preto-ca-h52fb-01_1645628458_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/311912/gabinete-gamer-nzxt-h510-flow-mid-tower-com-fan-lateral-em-vidro-temperado-preto-ca-h52fb-01_1645628459_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/311912/gabinete-gamer-nzxt-h510-flow-mid-tower-com-fan-lateral-em-vidro-temperado-preto-ca-h52fb-01_1645628461_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/311912/gabinete-gamer-nzxt-h510-flow-mid-tower-com-fan-lateral-em-vidro-temperado-preto-ca-h52fb-01_1645628462_gg.jpg"
+    ]
+  },
+  {
+    "nome": "Gabinete Gamer Phanteks Eclipse P400A",
+    "preço": 799.99,
+    "descrição": "Gabinete com design clean, vidro temperado na lateral, suporte a radiadores de até 360 mm e capacidade para até 6 fans. Possui sistema de filtro de poeira e suporte a placas-mãe ATX. Ideal para quem busca um visual discreto e uma boa performance em refrigeração.",
+    "categoria": "gabinete",
+    "imagens": [
+      "https://images.kabum.com.br/produtos/fotos/109989/gabinete-gamer-corsair-icue-220t-tg-rgb-mid-tower-com-fan-lateral-e-frontal-em-vidro-cc-9011190_1583175570_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/109989/gabinete-gamer-corsair-icue-220t-tg-rgb-mid-tower-com-fan-lateral-e-frontal-em-vidro-cc-9011190_1583175567_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/109989/gabinete-gamer-corsair-icue-220t-tg-rgb-mid-tower-com-fan-lateral-e-frontal-em-vidro-cc-9011190_1583175569_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/109989/gabinete-gamer-corsair-icue-220t-tg-rgb-mid-tower-com-fan-lateral-e-frontal-em-vidro-cc-9011190_1583176678_gg.jpg"
+    ]
+  },
+
+  {
+    "nome": "Processador Intel Core i9-11900K",
+    "preço": 3499.99,
+    "descrição": "Processador de última geração da Intel, com 8 núcleos e 16 threads, frequência base de 3.5 GHz e turbo boost de até 5.3 GHz. Ideal para quem busca o melhor desempenho em aplicações exigentes e jogos.",
+    "categoria": "processador",
+    "imagens": [
+      "https://images.kabum.com.br/produtos/fotos/148901/processador-intel-core-i9-11900k-11-geracao-cache-16mb-3-5-ghz-5-1ghz-turbo-lga1200-bx8070811900k_1615489709_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/148901/processador-intel-core-i9-11900k-11-geracao-cache-16mb-3-5-ghz-5-1ghz-turbo-lga1200-bx8070811900k_1615489710_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/148901/processador-intel-core-i9-11900k-11-geracao-cache-16mb-3-5-ghz-5-1ghz-turbo-lga1200-bx8070811900k_1615489708_gg.jpg"
+    ]
+  },
+  {
+    "nome": "Processador AMD Ryzen 9 5900X",
+    "preço": 2999.99,
+    "descrição": "Processador de última geração da AMD, com 12 núcleos e 24 threads, frequência base de 3.7 GHz e turbo boost de até 4.8 GHz. Possui suporte a PCIe 4.0 e memórias DDR4 de alta velocidade. Ideal para quem busca alto desempenho em aplicações profissionais e jogos.",
+    "categoria": "processador",
+    "imagens": [
+      "https://images.kabum.com.br/produtos/fotos/129460/processador-amd-ryzen-9-5900x-cache-70mb-3-8ghz-4-7ghz-max-turbo-am4-100-100000061wof_1604585280_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/129460/processador-amd-ryzen-9-5900x-3-7ghz-4-8ghz-max-turbo-cache-70mb-12-nucleos-24-threads-am4-100-100000061wof_1676288986_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/129460/processador-amd-ryzen-9-5900x-cache-70mb-3-8ghz-4-7ghz-max-turbo-am4-100-100000061wof_1604585279_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/129460/processador-amd-ryzen-9-5900x-3-7ghz-4-8ghz-max-turbo-cache-70mb-12-nucleos-24-threads-am4-100-100000061wof_1676288985_gg.jpg"
+    ]
+  },
+  {
+    "nome": "Processador Intel Core i7-11700K",
+    "preço": 2499.99,
+    "descrição": "Processador de última geração da Intel, com 8 núcleos e 16 threads, frequência base de 3.6 GHz e turbo boost de até 5.0 GHz. Possui suporte a PCIe 4.0 e memórias DDR4 de alta velocidade. Ideal para quem busca alto desempenho em jogos e aplicações profissionais.",
+    "categoria": "processador",
+    "imagens": [
+      "https://images.kabum.com.br/produtos/fotos/148902/processador-intel-core-i7-11700k-11-geracao-cache-16mb-3-6-ghz-4-9ghz-turbo-lga1200-bx8070811700k_1615491329_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/148902/processador-intel-core-i7-11700k-11-geracao-cache-16mb-3-6-ghz-4-9ghz-turbo-lga1200-bx8070811700k_1615491328_gg.jpg"
+    ]
+  },
+  {
+    "nome": "Processador AMD Ryzen 7 5800X",
+    "preço": 1999.99,
+    "descrição": "Processador de última geração da AMD, com 8 núcleos e 16 threads, frequência base de 3.8 GHz e turbo boost de até 4.7 GHz. Possui suporte a PCIe 4.0 e memórias DDR4 de alta velocidade. Ideal para quem busca alto desempenho em jogos e aplicações profissionais.",
+    "categoria": "processador",
+    "imagens": [
+      "https://images.kabum.com.br/produtos/fotos/129459/processador-amd-ryzen-9-5900x-cache-70mb-3-7ghz-4-8ghz-max-turbo-am4-100-100000063wof_1602600708_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/129459/processador-amd-ryzen-7-5800x-cache-36mb-3-8ghz-4-7ghz-max-turbo-am4-100-100000063wof_1629137112_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/129459/processador-amd-ryzen-9-5900x-cache-70mb-3-7ghz-4-8ghz-max-turbo-am4-100-100000063wof_1602600707_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/129459/processador-amd-ryzen-7-5800x-cache-36mb-3-8ghz-4-7ghz-max-turbo-am4-100-100000063wof_1629137131_gg.jpg"
+    ]
+  },
+  {
+    "nome": "Processador Intel Core i5-11600K",
+    "preço": 1599.99,
+    "descrição": "Processador de última geração da Intel, com 6 núcleos e 12 threads, frequência base de 3.9 GHz e turbo boost de até 4.9 GHz. Possui suporte a PCIe 4.0 e memórias DDR4 de alta velocidade. Ideal para quem busca um bom desempenho em jogos e aplicações de uso geral.",
+    "categoria": "processador",
+    "imagens": [
+      "https://media.pichau.com.br/media/catalog/product/cache/2f958555330323e505eba7ce930bdf27/b/x/bx8070811600k.jpg",
+      "https://media.pichau.com.br/media/catalog/product/cache/2f958555330323e505eba7ce930bdf27/b/x/bx8070811600k1.jpg"
+    ]
+  },
+  {
+    "nome": "Memória RAM Corsair Vengeance RGB Pro 16GB (2x8GB) DDR4 3600MHz",
+    "preço": 1199.99,
+    "descrição": "Kit de memórias RAM DDR4 com frequência de 3600MHz e capacidade total de 16GB (2x8GB). Possui iluminação RGB personalizável e é compatível com as principais placas-mãe do mercado. Ideal para quem busca alto desempenho em jogos e aplicações exigentes.",
+    "categoria": "memoria_ram",
+    "imagens": [
+      "https://images.kabum.com.br/produtos/fotos/108450/memoria-corsair-vengeance-rgb-pro-16gb-2x8gb-3600mhz-ddr4-cl18-cmw16gx4m2z3600c18_1575379797_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/108450/memoria-corsair-vengeance-rgb-pro-16gb-2x8gb-3600mhz-ddr4-cl18-cmw16gx4m2z3600c18_1575379798_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/108450/memoria-corsair-vengeance-rgb-pro-16gb-2x8gb-3600mhz-ddr4-cl18-cmw16gx4m2z3600c18_1575379799_gg.jpg"
+    ]
+  },
+  {
+    "nome": "Memória RAM Kingston HyperX Fury 32GB (2x16GB) DDR4 3200MHz",
+    "preço": 1599.99,
+    "descrição": "Kit de memórias RAM DDR4 com frequência de 3200MHz e capacidade total de 32GB (2x16GB). Possui dissipador de calor em alumínio para melhor dissipação de calor e é compatível com as principais placas-mãe do mercado. Ideal para quem busca alto desempenho em aplicações profissionais e jogos.",
+    "categoria": "memoria_ram",
+    "imagens": [
+      "https://images.kabum.com.br/produtos/fotos/172367/memoria-kingston-fury-beast-32gb-3200mhz-ddr4-cl16-preto-kf432c16bb-32_1626271593_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/172367/memoria-kingston-fury-beast-32gb-3200mhz-ddr4-cl16-preto-kf432c16bb-32_1626271595_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/172367/memoria-kingston-fury-beast-32gb-3200mhz-ddr4-cl16-preto-kf432c16bb-32_1626271596_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/172367/memoria-kingston-fury-beast-32gb-3200mhz-ddr4-cl16-preto-kf432c16bb-32_1626271594_gg.jpg"
+    ]
+  },
+  {
+    "nome": "Memória RAM G.Skill Ripjaws V 16GB (2x8GB) DDR4 3200MHz",
+    "preço": 899.99,
+    "descrição": "Kit de memórias RAM DDR4 com frequência de 3200MHz e capacidade total de 16GB (2x8GB). Possui dissipador de calor em alumínio para melhor dissipação de calor e é compatível com as principais placas-mãe do mercado. Ideal para quem busca bom desempenho em jogos e aplicações de uso geral.",
+    "categoria": "memoria_ram",
+    "imagens": [
+      "https://img.terabyteshop.com.br/produto/g/memoria-ddr4-gskill-ripjaws-v-16gb-2x8gb-3200mhz-f4-3200c16d-16gvkb_73583.jpg",
+      "https://img.terabyteshop.com.br/produto/g/memoria-ddr4-gskill-ripjaws-v-16gb-2x8gb-3200mhz-f4-3200c16d-16gvkb_73582.png"
+    ]
+  },
+  {
+    "nome": "Memória RAM Corsair Vengeance LPX 32GB (2x16GB) DDR4 3200MHz",
+    "preço": 1399.99,
+    "descrição": "Kit de memórias RAM DDR4 com frequência de 3200MHz e capacidade total de 32GB (2x16GB). Possui dissipador de calor em alumínio para melhor dissipação de calor e é compatível com as principais placas-mãe do mercado. Ideal para quem busca alto desempenho em aplicações profissionais e jogos.",
+    "categoria": "memoria_ram",
+    "imagens": [
+      "https://www.corsair.com/medias/sys_master/images/images/hee/h2e/9110917480478/-CMK32GX4M2B3200C16-Gallery-VENG-LPX-BLK-00.png",
+      "https://www.corsair.com/medias/sys_master/images/images/hf8/h2a/9110468198430/-CMK32GX4M2B3200C16-Gallery-VENG-LPX-BLK-01.png",
+      "https://www.corsair.com/medias/sys_master/images/images/h67/h81/9110646784030/-CMK32GX4M2B3200C16-Gallery-VENG-LPX-BLK-03.png",
+      "https://www.corsair.com/medias/sys_master/images/images/hc6/hfa/9111363682334/-CMK32GX4M2B3200C16-Gallery-VENG-LPX-BLK-05.png"
+    ]
+  },
+  {
+    "nome": "Memória RAM Crucial Ballistix RGB 16GB (2x8GB) DDR4 3200MHz",
+    "preço": 999.99,
+    "descrição": "Kit de memórias RAM DDR4 com frequência de 3200MHz e capacidade total de 16GB (2x8GB). Possui iluminação RGB personalizável e é compatível com as principais placas-mãe do mercado. Ideal para quem buscaom desempenho em jogos e aplicações de uso geral.",
+    "categoria": "memoria_ram",
+    "imagens": [
+      "https://images.kabum.com.br/produtos/fotos/172413/memoria-kingston-fury-beast-rgb-32gb-2x16gb-3200mhz-ddr4-cl16-preto-kf432c16bb1ak2-32_1662151167_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/172413/memoria-kingston-fury-beast-rgb-32gb-2x16gb-3200mhz-ddr4-cl16-preto-kf432c16bb1ak2-32_1626207824_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/172413/memoria-kingston-fury-beast-rgb-32gb-2x16gb-3200mhz-ddr4-cl16-preto-kf432c16bb1ak2-32_1626207825_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/172413/memoria-kingston-fury-beast-rgb-32gb-2x16gb-3200mhz-ddr4-cl16-preto-kf432c16bb1ak2-32_1626207823_gg.jpg"
+    ]
+  },
+  {
+    "nome": "Cooler Master Hyper 212 RGB Black Edition",
+    "preco": 349.9,
+    "descricao": "Cooler para processadores com tecnologia de contato direto e ventoinha RGB de 120mm para melhor desempenho térmico e visual.",
+    "categoria": "coolers",
+    "imagens": [
+      "https://images.kabum.com.br/produtos/fotos/250945/cooler-para-processador-cooler-master-hyper-212-rgb-black-edition-com-4-heatpipes-lga-1700-120mm-preto-rr-212s-20pc-r2_1647885520_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/250945/cooler-para-processador-cooler-master-hyper-212-rgb-black-edition-com-4-heatpipes-lga-1700-120mm-preto-rr-212s-20pc-r2_1647885523_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/250945/cooler-para-processador-cooler-master-hyper-212-rgb-black-edition-com-4-heatpipes-lga-1700-120mm-preto-rr-212s-20pc-r2_1647885522_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/250945/cooler-para-processador-cooler-master-hyper-212-rgb-black-edition-com-4-heatpipes-lga-1700-120mm-preto-rr-212s-20pc-r2_1647885521_gg.jpg"
+    ]
+  },
+  {
+    "nome": "Noctua NH-D15 Chromax Black",
+    "preco": 1199.0,
+    "descricao": "Cooler de alto desempenho para processadores, com duas ventoinhas NF-A15 PWM e tecnologia de dissipação térmica.",
+    "categoria": "coolers",
+    "imagens": [
+      "https://images.kabum.com.br/produtos/fotos/135806/cooler-para-processador-noctua-para-amd-intel-fan-de-140mm-preto-nh-d15-ch-bk_1610546752_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/135806/cooler-para-processador-noctua-para-amd-intel-fan-de-140mm-preto-nh-d15-ch-bk_1610546749_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/135806/cooler-para-processador-noctua-para-amd-intel-fan-de-140mm-preto-nh-d15-ch-bk_1610546753_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/135806/cooler-para-processador-noctua-para-amd-intel-fan-de-140mm-preto-nh-d15-ch-bk_1610546751_gg.jpg"
+    ]
+  },
+  {
+    "nome": "Corsair iCUE H150i Elite Capellix Liquid CPU Cooler",
+    "preco": 1299.0,
+    "descricao": "Sistema de refrigeração líquida para processadores com tecnologia de iluminação RGB Capellix e ventoinhas ML RGB de 120mm.",
+    "categoria": "coolers",
+    "imagens": [
+      "https://images.kabum.com.br/produtos/fotos/156951/water-cooler-corsair-icue-h150i-elite-capellix-rgb-360mm-branco-cw-9060051-ww_1632250204_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/156951/water-cooler-corsair-icue-h150i-elite-capellix-rgb-360mm-branco-cw-9060051-ww_1632250207_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/156951/water-cooler-corsair-icue-h150i-elite-capellix-rgb-360mm-branco-cw-9060051-ww_1632250200_gg.jpg",
+      "https://images.kabum.com.br/produtos/fotos/156951/water-cooler-corsair-icue-h150i-elite-capellix-rgb-360mm-branco-cw-9060051-ww_1632250203_gg.jpg"
+    ]
+  },
+  {
+    "nome": "Arctic Freezer 34 eSports DUO",
+    "preco": 339.9,
+    "descricao": "Cooler para processadores com design elegante e duas ventoinhas BioniX P-fan de alta performance.",
+    "categoria": "coolers",
+    "imagens": [
+      "https://m.media-amazon.com/images/I/51hvsuHfdgL._AC_SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/61wbTHJVfQL._AC_SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/61rEP4zxqoL._AC_SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/61HKKq7IJsL._AC_SL1000_.jpg"
+    ]
+  },
+  {
+    "nome": "Deepcool GAMMAXX GTE V2",
+    "preco": 189.9,
+    "descricao": "Cooler para processadores com tecnologia de contato direto, ventoinha de 120mm e iluminação RGB.",
+    "categoria": "coolers",
+    "imagens": [
+      "https://cdn.deepcool.com/public/ProductFile/DEEPCOOL/Cooling/CPUAirCoolers/GAMMAXX_GTE_V2/Gallery/608X760/02.jpg?fm=webp&q=60",
+      "https://cdn.deepcool.com/public/ProductFile/DEEPCOOL/Cooling/CPUAirCoolers/GAMMAXX_GTE_V2/Gallery/608X760/01.jpg?fm=webp&q=60",
+      "https://cdn.deepcool.com/public/ProductFile/DEEPCOOL/Cooling/CPUAirCoolers/GAMMAXX_GTE_V2/Gallery/608X760/03.jpg?fm=webp&q=60",
+      "https://cdn.deepcool.com/public/ProductFile/DEEPCOOL/Cooling/CPUAirCoolers/GAMMAXX_GTE_V2/Gallery/608X760/04.jpg?fm=webp&q=60"
+    ]
+  },
+  {
+    "nome": "HyperX Cloud II",
+    "preco": 599.9,
+    "descricao": "Headset com som surround 7.1 virtual, microfone removível e conforto superior.",
+    "categoria": "headsets",
+    "imagens": [
+      "https://images.kabum.com.br/produtos/fotos/63197/63197_1518114148_index_g.jpg",
+      "https://images.kabum.com.br/produtos/fotos/63197/63197_1428674457_g.jpg",
+      "https://images.kabum.com.br/produtos/fotos/63197/63197_1428674463_g.jpg",
+      "https://images.kabum.com.br/produtos/fotos/63197/63197_1428674452_g.jpg"
+    ]
+  },
+  {
+    "nome": "Logitech G Pro X",
+    "preco": 999.9,
+    "descricao": "Headset com microfone removível, tecnologia de cancelamento de ruído e perfis de áudio personalizados.",
+    "categoria": "headsets",
+    "imagens": [
+      "https://images.kabum.com.br/produtos/fotos/sync_mirakl/170783/Headset-Fone-Gamer-Logitech-G-Pro-X-Com-Blue-Voice-Som-Surround-7-1-Drivers-Pro-g-De-50mm-981-0_1670938123_g.jpg",
+      "https://images.kabum.com.br/produtos/fotos/sync_mirakl/170783/Headset-Fone-Gamer-Logitech-G-Pro-X-Com-Blue-Voice-Som-Surround-7-1-Drivers-Pro-g-De-50mm-981-0_1670938134_g.jpg",
+      "https://images.kabum.com.br/produtos/fotos/sync_mirakl/170783/Headset-Fone-Gamer-Logitech-G-Pro-X-Com-Blue-Voice-Som-Surround-7-1-Drivers-Pro-g-De-50mm-981-0_1670938146_g.jpg",
+      "https://images.kabum.com.br/produtos/fotos/sync_mirakl/170783/Headset-Fone-Gamer-Logitech-G-Pro-X-Com-Blue-Voice-Som-Surround-7-1-Drivers-Pro-g-De-50mm-981-0_1670938156_g.jpg"
+    ]
+  },
+  {
+    "nome": "Razer BlackShark V2",
+    "preco": 699.9,
+    "descricao": "Headset com tecnologia de áudio THX Spatial, microfone removível e conforto aprimorado para longas sessões de jogos.",
+    "categoria": "headsets",
+    "imagens": [
+      "https://images.kabum.com.br/produtos/fotos/128544/headset-gamer-razer-blackshark-v2-x-multi-platform-drivers-50mm-rz04-03240100-r3u1_1600956255_g.jpg",
+      "https://images.kabum.com.br/produtos/fotos/128544/headset-gamer-razer-blackshark-v2-x-multi-platform-drivers-50mm-rz04-03240100-r3u1_1600956256_g.jpg",
+      "https://images.kabum.com.br/produtos/fotos/128544/headset-gamer-razer-blackshark-v2-x-multi-platform-drivers-50mm-rz04-03240100-r3u1_1600956254_g.jpg",
+      "https://images.kabum.com.br/produtos/fotos/128544/headset-gamer-razer-blackshark-v2-x-multi-platform-drivers-50mm-rz04-03240100-r3u1_1600956253_g.jpg"
+    ]
+  },
+  {
+    "nome": "Corsair HS60 Haptic",
+    "preco": 899.9,
+    "descricao": "Headset com tecnologia de áudio haptic, microfone unidirecional e conforto superior.",
+    "categoria": "headsets",
+    "imagens": [
+      "https://images.kabum.com.br/produtos/fotos/131178/headset-gamer-corsair-hs60-haptic-usb-stereo-com-grave-haptico-drivers-50mm-camuflado-ca-9011225-na_1605188576_g.jpg",
+      "https://images.kabum.com.br/produtos/fotos/131178/headset-gamer-corsair-hs60-haptic-usb-stereo-com-grave-haptico-drivers-50mm-camuflado-ca-9011225-na_1605188574_g.jpg",
+      "https://images.kabum.com.br/produtos/fotos/131178/headset-gamer-corsair-hs60-haptic-usb-stereo-com-grave-haptico-drivers-50mm-camuflado-ca-9011225-na_1605188573_g.jpg",
+      "https://images.kabum.com.br/produtos/fotos/131178/headset-gamer-corsair-hs60-haptic-usb-stereo-com-grave-haptico-drivers-50mm-camuflado-ca-9011225-na_1605188575_g.jpg"
+    ]
+  },
+  {
+    "nome": "SteelSeries Arctis 7",
+    "preco": 1299.9,
+    "descricao": "Headset sem fio com som surround 7.1, microfone retrátil e bateria de longa duração.",
+    "categoria": "headsets",
+    "imagens": [
+      "https://images.kabum.com.br/produtos/fotos/115334/headset-gamer-steelseries-arctis-5-rgb-7-1-som-surround-drivers-40mm-preto-61504_1595259671_g.jpg",
+      "https://images.kabum.com.br/produtos/fotos/115334/headset-gamer-steelseries-arctis-5-rgb-7-1-som-surround-drivers-40mm-preto-61504_1595259670_g.jpg",
+      "https://images.kabum.com.br/produtos/fotos/115334/headset-gamer-steelseries-arctis-5-rgb-7-1-som-surround-drivers-40mm-preto-61504_1595259669_g.jpg",
+      "https://images.kabum.com.br/produtos/fotos/115334/headset-gamer-steelseries-arctis-5-rgb-7-1-som-surround-drivers-40mm-preto-61504_1595259672_g.jpg"
+    ]
+  },
+  {
+    "nome": "Blue Yeti",
+    "preco": 799.9,
+    "descricao": "Microfone USB com quatro padrões de captação, controle de ganho, silenciador e monitoramento de latência zero.",
+    "categoria": "microfones de mesa",
+    "imagens": [
+      "https://m.media-amazon.com/images/I/61vI0Zii07L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71EwmAPJNPL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/718Y0F9xWBL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61g15Ur4HjL._AC_SL1500_.jpg"
+    ]
+  },
+  {
+    "nome": "Razer Seiren X",
+    "preco": 999.9,
+    "descricao": "Microfone USB com tecnologia de supressão de ruído e design compacto para facilitar o transporte.",
+    "categoria": "microfones de mesa",
+    "imagens": [
+      "https://images.kabum.com.br/produtos/fotos/94782/microfone-razer-seiren-x-usb-rz19-02290100-r3u1_1599577395_g.jpg",
+      "https://images.kabum.com.br/produtos/fotos/94782/microfone-razer-seiren-x-usb-rz19-02290100-r3u1_1599577397_g.jpg",
+      "https://images.kabum.com.br/produtos/fotos/94782/microfone-razer-seiren-x-usb-rz19-02290100-r3u1_1599577396_g.jpg",
+      "https://images.kabum.com.br/produtos/fotos/94782/microfone-razer-seiren-x-usb-rz19-02290100-r3u1_1599577399_g.jpg"
+    ]
+  },
+  {
+    "nome": "Audio-Technica AT2020",
+    "preco": 799.9,
+    "descricao": "Microfone condensador com diafragma de baixa massa, construção robusta e excelente qualidade sonora.",
+    "categoria": "microfones de mesa",
+    "imagens": [
+      "https://images.kabum.com.br/produtos/fotos/114795/microfone-condensador-cardioide-audio-technica-xlrm-de-3-pinos-at2020_1593781225_g.jpg",
+      "https://images.kabum.com.br/produtos/fotos/114795/microfone-condensador-cardioide-audio-technica-xlrm-de-3-pinos-at2020_1593781226_g.jpg",
+      "https://images.kabum.com.br/produtos/fotos/114795/microfone-condensador-cardioide-audio-technica-xlrm-de-3-pinos-at2020_1593781227_g.jpg"
+    ]
+  },
+  {
+    "nome": "HyperX QuadCast",
+    "preco": 899.9,
+    "descricao": "Microfone USB com quatro padrões de captação, indicador de silenciamento em LED e pop filter integrado.",
+    "categoria": "microfones de mesa",
+    "imagens": [
+      "https://images.kabum.com.br/produtos/fotos/101288/microfone-gamer-hyperx-quadcast-antivibracao-led-preto-e-vermelho-hx-micqc-bk_1615553162_g.jpg",
+      "https://images.kabum.com.br/produtos/fotos/101288/microfone-gamer-hyperx-quadcast-antivibracao-led-preto-e-vermelho-hx-micqc-bk_1615553155_g.jpg",
+      "https://images.kabum.com.br/produtos/fotos/101288/microfone-gamer-hyperx-quadcast-antivibracao-led-preto-e-vermelho-hx-micqc-bk_1615553159_g.jpg",
+      "https://images.kabum.com.br/produtos/fotos/101288/microfone-gamer-hyperx-quadcast-antivibracao-led-preto-e-vermelho-hx-micqc-bk_1615553156_g.jpg"
+    ]
+  },
+  {
+    "nome": "Samson Meteor",
+    "preco": 599.9,
+    "descricao": "Microfone USB com padrão de captação cardióide e design elegante em alumínio.",
+    "categoria": "microfones de mesa",
+    "imagens": [
+      "https://m.media-amazon.com/images/I/71JJDVANqiL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81xAGjIb0DL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81BfPfHwRTL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61nFF6uiEYL._AC_SL1500_.jpg"
+    ]
+  },
+  {
+    "nome": "Corsair RM850x",
+    "preco": 1199.9,
+    "descricao": "Fonte modular de 850W com certificação 80 Plus Gold, cabos pretos e sistema de refrigeração silencioso.",
+    "categoria": "fontes",
+    "imagens": [
+      "https://images.kabum.com.br/produtos/fotos/371159/fonte-corsair-rmx-series-2021-rm850x-850w-80-plus-gold-full-modular-cp-9020200-ww_1666363766_g.jpg",
+      "https://images.kabum.com.br/produtos/fotos/371159/fonte-corsair-rmx-series-2021-rm850x-850w-80-plus-gold-full-modular-cp-9020200-ww_1666363769_g.jpg",
+      "https://images.kabum.com.br/produtos/fotos/371159/fonte-corsair-rmx-series-2021-rm850x-850w-80-plus-gold-full-modular-cp-9020200-ww_1666363771_g.jpg",
+      "https://images.kabum.com.br/produtos/fotos/371159/fonte-corsair-rmx-series-2021-rm850x-850w-80-plus-gold-full-modular-cp-9020200-ww_1666363770_g.jpg"
+    ]
+  },
+  {
+    "nome": "EVGA Supernova 750 G5",
+    "preco": 999.9,
+    "descricao": "Fonte modular de 750W com certificação 80 Plus Gold, sistema de resfriamento inteligente e proteção contra sobrecarga.",
+    "categoria": "fontes",
+    "imagens": [
+      "https://images.kabum.com.br/produtos/fotos/113573/fonte-evga-supernova-750-g5-750w-80-plus-gold-modular-220-g5-0750-x_1597760437_g.jpg",
+      "https://images.kabum.com.br/produtos/fotos/113573/fonte-evga-supernova-750-g5-750w-80-plus-gold-modular-220-g5-0750-x_1597760438_g.jpg",
+      "https://images.kabum.com.br/produtos/fotos/113573/fonte-evga-supernova-750-g5-750w-80-plus-gold-modular-220-g5-0750-x_1597760439_g.jpg",
+      "https://images.kabum.com.br/produtos/fotos/113573/fonte-evga-supernova-750-g5-750w-80-plus-gold-modular-220-g5-0750-x_1597760440_g.jpg"
+    ]
+  },
+  {
+    "nome": "Seasonic Focus GX-750",
+    "preco": 1099.9,
+    "descricao": "Fonte modular de 750W com certificação 80 Plus Gold, design compacto e cabos pretos.",
+    "categoria": "fontes",
+    "imagens": [
+      "https://m.media-amazon.com/images/I/71w8NAmYWdL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71agTtut7oL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71AykWBc13L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/7139NvAqyES._AC_SL1500_.jpg"
+    ]
+  },
+  {
+    "nome": "Thermaltake Smart BX1 RGB 650W",
+    "preco": 749.9,
+    "descricao": "Fonte não modular de 650W com certificação 80 Plus Bronze, iluminação RGB e proteção contra sobrecarga.",
+    "categoria": "fontes",
+    "imagens": [
+      "https://www.thermaltake.com/media/catalog/product/cache/6af153fd0a0c509bdfcdfb60a394dd9c/b/x/bx1rgb650_01.jpg",
+      "https://www.thermaltake.com/media/catalog/product/cache/6af153fd0a0c509bdfcdfb60a394dd9c/db/imgs/pdt/angle/PS-SPR-0650NHFABx-1%20_d5bbdcbf9d934d52956653ed6cf7de54.jpg",
+      "https://www.thermaltake.com/media/catalog/product/cache/6af153fd0a0c509bdfcdfb60a394dd9c/db/imgs/pdt/gallery/PS-SPR-0650NHFABx-1%20_842dec994b0f424985f8366cce4cb6f0.jpg",
+      "https://www.thermaltake.com/media/catalog/product/cache/6af153fd0a0c509bdfcdfb60a394dd9c/db/imgs/pdt/gallery/PS-SPR-0650NHFABx-1%20_33e8eea6bbed407cac8bbdec765e280f.jpg"
+    ]
+  },
+  {
+    "nome": "Cooler Master MWE 750 Gold V2",
+    "preco": 899.9,
+    "descricao": "Fonte não modular de 750W com certificação 80 Plus Gold, ventilador silencioso e proteção contra curto-circuito.",
+    "categoria": "fontes",
+    "imagens": [
+      "https://media.pichau.com.br/media/catalog/product/cache/2f958555330323e505eba7ce930bdf27/m/p/mpe-7501-afaag-wo1.jpg",
+      "https://media.pichau.com.br/media/catalog/product/cache/2f958555330323e505eba7ce930bdf27/m/p/mpe-7501-afaag-wo4.jpg",
+      "https://media.pichau.com.br/media/catalog/product/cache/2f958555330323e505eba7ce930bdf27/m/p/mpe-7501-afaag-wo3.jpg",
+      "https://media.pichau.com.br/media/catalog/product/cache/2f958555330323e505eba7ce930bdf27/m/p/mpe-7501-afaag-wo6.jpg"
+    ]
   }
 ]
